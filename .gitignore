@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local databases and user data
+*.db
+*.sqlite
+*.sqlite3
+persistent_data/
+logs/
+uploads/
+vector_store/
+
+# Biometric/face data
+face_dataset/
+face_trainer.yml
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

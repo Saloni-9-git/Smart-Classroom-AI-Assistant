@@ -13,7 +13,7 @@ pandas
 python-docx
 Pillow
 pytesseract
-opencv-contrib-python
+opencv-contrib-python-headless
 speechrecognition
 pyttsx3
 fastapi
